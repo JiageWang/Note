@@ -10,7 +10,7 @@
 * python2: 返回元祖列表 使用itertools中的izip返回生成器
 * python3: 返回元祖生成器
 
-
+## 4.python3新增nonlocal关键字
 
 
 
